@@ -1,0 +1,33 @@
+:root{
+    /* Colors */
+    --orange: rgb(247 180 63);
+    --yellow: rgb(253 230 65);
+    --light-yellow:rgb(254 251 69);
+    --red: rgb(251 0 21);
+    --pink: rgb(254 205 211);
+    --black: rgb(0 0 0);
+}
+.box{
+    height: 2em;
+}
+.back{
+    background-color: var(--orange);
+}
+.black{
+    background-color: var(--black);
+}
+.yellow{
+    background-color: var(--yellow);
+}
+.light-y{
+    background-color: var(--light-yellow);
+}
+.white{
+    background-color: white;
+}
+.red{
+    background-color: var(--red);
+}
+.pink{
+    background-color: var(--pink);
+}
